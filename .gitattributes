@@ -1,0 +1,2 @@
+*.weights filter=lfs diff=lfs merge=lfs -text
+yolov3_custom_final.weights filter=lfs diff=lfs merge=lfs -text
